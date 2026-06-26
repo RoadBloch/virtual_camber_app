@@ -61,4 +61,4 @@ Two windows open:
 
 ## Project context
 
-Developed at the University of Wisconsin–Madison Center for Fluid Power and Motion (CPFM) as part of summer 2026 cross-flow turbine research. Python port of analysis originally written by Caelan.
+Developed as part of summer 2026 cross-flow turbine research at the Computational Flow Physics and Modeling Group at the University of Wisconsin–Madison. Python port of analysis originally written by Caelan.
